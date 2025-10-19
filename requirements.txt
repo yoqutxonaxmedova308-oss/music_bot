@@ -1,5 +1,2 @@
-pyTelegramBotAPI==4.12.0
-yt-dlp==2024.10.7
-pytube==12.1.0   # ixtiyoriy
-mutagen==1.46.0  # ixtiyoriy
-python-dotenv==1.0.1
+pyTelegramBotAPI
+python-dotenv
